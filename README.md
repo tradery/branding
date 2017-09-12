@@ -1,2 +1,2 @@
-# branding
-Includes branding assets such as logos or swag.
+# Tradery.io Branding
+Currently includes logo assets.
