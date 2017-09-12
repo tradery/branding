@@ -1,2 +1,2 @@
-# Tradery.io Branding
+# Traderycoin Branding
 Currently includes logo assets.
